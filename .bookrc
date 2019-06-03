@@ -7,5 +7,15 @@
     "CSS": "css",
     "JS": "js",
     "HEAD": "html"
-  }
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "start_page": "9",
+  "book_id": 817,
+  "book_url": "http://localhost:3000/book/puerto-rico-by-various"
 }
