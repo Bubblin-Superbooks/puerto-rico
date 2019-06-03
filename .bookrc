@@ -1,7 +1,7 @@
 {
-  "name": "puerto-rico",
+  "name": "Puerto Rico",
   "type": "text",
-  "has_page_numbers": false,
+  "has_page_numbers": true,
   "mode": {
     "HTML": "html",
     "CSS": "css",

@@ -1,14 +1,14 @@
 {
   "name": "puerto-rico",
   "version": "0.0.6",
-  "description": "Superbook: puerto-rico by various",
+  "description": "Superbook: puerto-rico by Michael O. Kane",
   "keywords": [
     "superbook",
     "bookiza"
   ],
-  "author": "various <marvindanig+guten+various@gmail.com> (https://bubblin.io/various)",
+  "author": "various <temporary@gmail.com> (https://bubblin.io/mokane99)",
   "license": "ISC",
-  "homepage": "https://bubblin.io/various",
+  "homepage": "https://bubblin.io/mokane99",
   "repository": {
     "type": "git",
     "url": "git+https://github/project/url/here"
